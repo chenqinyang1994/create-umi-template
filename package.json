@@ -1,0 +1,26 @@
+{
+  "name": "create-umi-template",
+  "version": "1.0.0",
+  "description": "umi template cli",
+  "main": "index.js",
+  "bin": {
+      "create-umi-template": "./bin/cli.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chenqinyang1994/create-umi-template.git"
+  },
+  "keywords": [
+    "create-umi-template",
+    "umi-template-cli"
+  ],
+  "author": "chenqinyang94@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chenqinyang1994/create-umi-template/issues"
+  },
+  "homepage": "https://github.com/chenqinyang1994/create-umi-template#readme"
+}
